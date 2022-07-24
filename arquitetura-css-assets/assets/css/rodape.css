@@ -1,0 +1,16 @@
+.rodape{
+    background: #bfbfbf;
+    color: #fdfdfd;
+    padding: 1.5625rem 5rem;
+    text-align: right;
+    text-transform: lowercase;
+}
+.git{
+    color: #fdfdfd;
+    list-style: none;
+    transition:0.75s;
+}
+
+.git:hover{
+    color: yellow;
+}
